@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tia v19\\documents\\repo\\mvc_helion\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tia v19\\documents\\repo\\mvc_helion\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\tia v19\\documents\\repo\\mvc_helion\\nzwalks\\nzwalks.api\\models\\domain\\dto\\updateregionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{206C76D7-D775-4FA0-87E7-53629F7C7C11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\dto\\updateregionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:25:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:16:57.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UpdateRegionRequest.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Models\\Domain\\DTO\\UpdateRegionRequest.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\DTO\\UpdateRegionRequest.cs",
@@ -42,12 +76,11 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\DTO\\UpdateRegionRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:19:36.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T08:19:36.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AddRegionRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Models\\Domain\\DTO\\AddRegionRequestDto.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\DTO\\AddRegionRequestDto.cs",
@@ -55,12 +88,11 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\DTO\\AddRegionRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:00:38.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T08:00:38.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RegionDto.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Models\\Domain\\DTO\\RegionDto.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\DTO\\RegionDto.cs",
@@ -68,12 +100,11 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\DTO\\RegionDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T07:08:57.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T07:08:57.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
@@ -81,8 +112,7 @@
               "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T06:41:03.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T06:41:03.826Z"
             },
             {
               "$type": "Document",
@@ -92,7 +122,7 @@
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
               "ToolTip": "C:\\Users\\TIA V19\\Documents\\REPO\\MVC_HELION\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAA1wJYAAAApAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCIAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T05:52:30.275Z",
               "EditorCaption": ""
